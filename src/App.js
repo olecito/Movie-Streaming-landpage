@@ -7,7 +7,7 @@ import SearchIcon from './search.svg';
 
 // 7903d8ca 
 
-const API_URL = 'http://www.omdbapi.com?apikey=7903d8ca';
+const API_URL = 'https://www.omdbapi.com?apikey=7903d8ca';
 
 const movie1 = {
     "Title": "American Pie",
